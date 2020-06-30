@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.videoplayer" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/aswin/development/flutter/.pub-cache/git/plugins-c9a68a1d883ca39e475afcd5e1353977be1640e4/packages/video_player/android/src/main/AndroidManifest.xml
+6
+7</manifest>
