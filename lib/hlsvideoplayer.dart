@@ -497,7 +497,7 @@ class HLSVideoPlayerState extends State<HLSVideoPlayer> {
   Future<dynamic> pushFullScreenWidget() async {
     // final isAndroid = Theme.of(context).platform == TargetPlatform.android;
     final TransitionRoute<Null> route = PageRouteBuilder<Null>(
-      settings: RouteSettings(isInitialRoute: false),
+      settings: RouteSettings(),
       pageBuilder: _fullScreenRoutePageBuilder,
     );
 
